@@ -5,7 +5,7 @@ header:
 #  overlay_filter: "0.5"
   overlay_image: /assets/images/layout_index.png
   cta_label: "Tester !"
-  cta_url: "https://github.com/simcoon/simcoon/"
+  cta_url: "https://mybinder.org/v2/gh/chemiskyy/map_delivery/master"
 excerpt: "Créer des cartes interactives facilement pour livrer à domicile"
 intro: 
 - excerpt: 'Vous souhaitez livrer à domicile vos clients? Avec cette carte interactive vous pourrez facilement définir une carte de livraison avec les informations essentielles et la possibilité de connecter directement votre navigateur gps (sur téléphone). Voici comment procéder:'
