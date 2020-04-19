@@ -1,0 +1,100 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXFileReference section */
+		125B9ACF20EB579B003E75DD /* _config.yml */ = {isa = PBXFileReference; lastKnownFileType = text; path = _config.yml; sourceTree = "<group>"; };
+		125B9AD020EB579B003E75DD /* _data */ = {isa = PBXFileReference; lastKnownFileType = folder; path = _data; sourceTree = "<group>"; };
+		125B9AD120EB579B003E75DD /* _includes */ = {isa = PBXFileReference; lastKnownFileType = folder; path = _includes; sourceTree = "<group>"; };
+		125B9AD220EB579B003E75DD /* _layouts */ = {isa = PBXFileReference; lastKnownFileType = folder; path = _layouts; sourceTree = "<group>"; };
+		125B9AD320EB579B003E75DD /* _pages */ = {isa = PBXFileReference; lastKnownFileType = folder; path = _pages; sourceTree = "<group>"; };
+		125B9AD420EB579B003E75DD /* _sass */ = {isa = PBXFileReference; lastKnownFileType = folder; path = _sass; sourceTree = "<group>"; };
+		125B9AD520EB579B003E75DD /* assets */ = {isa = PBXFileReference; lastKnownFileType = folder; path = assets; sourceTree = "<group>"; };
+		125B9AD620EB579B003E75DD /* banner.js */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.javascript; path = banner.js; sourceTree = "<group>"; };
+		125B9AD720EB579B003E75DD /* Gemfile */ = {isa = PBXFileReference; lastKnownFileType = text; path = Gemfile; sourceTree = "<group>"; };
+		125B9AD820EB579B003E75DD /* index copy.html */ = {isa = PBXFileReference; lastKnownFileType = text.html; path = "index copy.html"; sourceTree = "<group>"; };
+		125B9AD920EB579B003E75DD /* index.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = index.md; sourceTree = "<group>"; };
+		125B9ADA20EB579B003E75DD /* LICENSE.txt */ = {isa = PBXFileReference; lastKnownFileType = text; path = LICENSE.txt; sourceTree = "<group>"; };
+		125B9ADB20EB579B003E75DD /* package.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = package.json; sourceTree = "<group>"; };
+		125B9ADC20EB579B003E75DD /* Rakefile */ = {isa = PBXFileReference; lastKnownFileType = text; path = Rakefile; sourceTree = "<group>"; };
+		125B9ADD20EB579B003E75DD /* staticman.yml */ = {isa = PBXFileReference; lastKnownFileType = text; path = staticman.yml; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXGroup section */
+		125B9AC820EB5768003E75DD = {
+			isa = PBXGroup;
+			children = (
+				125B9ACF20EB579B003E75DD /* _config.yml */,
+				125B9AD020EB579B003E75DD /* _data */,
+				125B9AD120EB579B003E75DD /* _includes */,
+				125B9AD220EB579B003E75DD /* _layouts */,
+				125B9AD320EB579B003E75DD /* _pages */,
+				125B9AD420EB579B003E75DD /* _sass */,
+				125B9AD520EB579B003E75DD /* assets */,
+				125B9AD620EB579B003E75DD /* banner.js */,
+				125B9AD720EB579B003E75DD /* Gemfile */,
+				125B9AD820EB579B003E75DD /* index copy.html */,
+				125B9AD920EB579B003E75DD /* index.md */,
+				125B9ADA20EB579B003E75DD /* LICENSE.txt */,
+				125B9ADB20EB579B003E75DD /* package.json */,
+				125B9ADC20EB579B003E75DD /* Rakefile */,
+				125B9ADD20EB579B003E75DD /* staticman.yml */,
+			);
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXProject section */
+		125B9AC920EB5768003E75DD /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastUpgradeCheck = 0730;
+			};
+			buildConfigurationList = 125B9ACC20EB5768003E75DD /* Build configuration list for PBXProject "simcoon.github.io" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+			);
+			mainGroup = 125B9AC820EB5768003E75DD;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+			);
+		};
+/* End PBXProject section */
+
+/* Begin XCBuildConfiguration section */
+		125B9ACD20EB5768003E75DD /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+			};
+			name = Debug;
+		};
+		125B9ACE20EB5768003E75DD /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		125B9ACC20EB5768003E75DD /* Build configuration list for PBXProject "simcoon.github.io" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				125B9ACD20EB5768003E75DD /* Debug */,
+				125B9ACE20EB5768003E75DD /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 125B9AC920EB5768003E75DD /* Project object */;
+}

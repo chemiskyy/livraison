@@ -1,0 +1,41 @@
+# main links
+main:
+  - title: "Documentation"
+    url: /documentation/
+  - title: "Auteur"
+    url: /authors/
+  # - title: "Sample Collections"
+  #   url: /collection-archive/
+  # - title: "Sitemap"
+  #   url: /sitemap/
+
+sidebar-sample:
+      - title: "Préparer votre fichier de commande"
+        url: /documentation/excel/
+      - title: "Générer le fichier csv"
+        url: /documentation/csv/
+      - title: "Générer la carte"
+        url: /documentation/map/
+
+
+#sidebar-sample:
+#  - title: "Documentation"
+#    children:
+#      - title: "Constitutive modelling"
+#        url: /documentation/constitutive_modeling/
+#      - title: "Homogenization"
+#        url: /documentation/homogenization/
+#      - title: "Identification"
+#        url: /documentation/identification/
+#  - title: "History of APIs"
+#    children:
+#      - title: "Child Page B1"
+#        url: /
+#      - title: "Child Page B2"
+#        url: /
+#      - title: "Child Page B3"
+#        url: /
+#      - title: "Child Page B4"
+#        url: /
+#      - title: "Child Page B5"
+#        url: /
