@@ -16,7 +16,7 @@ description              : "A website that describe the simcoon project."
 url                      : "https://chemiskyy.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "/livraison"
-teaser                   : "/assets/images/logo_simcoon/simcoon_logo.png"
+teaser                   : "assets/images/logo_simcoon/simcoon_logo.png"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
 comments:
