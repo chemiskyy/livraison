@@ -15,7 +15,7 @@ name                     : "Yves Chemisky"
 description              : "A website that describe the simcoon project."
 url                      : "https:/chemiskyy.github.io/livraison/"
 baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : "chemiskyy/livraison.github.io"
+repository               : "chemiskyy/livraison"
 teaser                   : "/assets/images/logo_simcoon/simcoon_logo.png"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
