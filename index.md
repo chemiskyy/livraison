@@ -50,9 +50,9 @@ feature_row2:
 Cette carte:
 
 - Attribue une couleur par "tournée" si vous ajoutez un fichier permettant d'affecter une tournée par code postal
-- Effectue, pour chaque tournée, un calcul du plus cour chemin en fonction de votre point de départ de livraison. Chaque client se voit attribuer un numéro en fonction de l'ordre de livraison optimal. Vous pouvez ainsi ranger votre camionette en fonction de cet ordre :)
+- Effectue, pour chaque tournée, un calcul du plus cour chemin en fonction de votre point de départ de livraison. Chaque client se voit attribuer un numéro en fonction de l'ordre de livraison optimal. Vous pouvez ainsi ranger votre camionnette en fonction de cet ordre :)
 - Vous avez la possibilité de récupérer le fichier client mis dans l'ordre de la livraison. Pratique pour éditer des factures ;)
-- Ajoute un icone pour chaque client à livrer sur la carte (avec le numéro d'ordre)
-- En cliquand sur chaque icone, vous avez un lien permettant de démarrer l'application gps de Google. Vous pouvez donc obtenir le trajet vers le prochain client automatiquement!
+- Ajoute un icône pour chaque client à livrer sur la carte (avec le numéro d'ordre)
+- En cliquant sur chaque icône, vous avez un lien permettant de démarrer l'application gps de Google. Vous pouvez donc obtenir le trajet vers le prochain client automatiquement!
 - **Bonne livraison!**
 
